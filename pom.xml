@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.holamundo</groupId>
-	<artifactId>holamundo</artifactId>
+	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>holamundo</name>
-	<description>Mi primer proyecto hola mundo en Spring Boot</description>
+	<description>Mi primer proyecto de Spring boot</description>
 	<url/>
 	<licenses>
 		<license/>
